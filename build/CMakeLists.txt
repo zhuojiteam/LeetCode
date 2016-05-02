@@ -1,0 +1,1 @@
+add_executable(PAT_1043 ../PAT/1043/1043.c)
